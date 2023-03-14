@@ -1,0 +1,2 @@
+# BDKCompetencyTest
+CompetencyTest
